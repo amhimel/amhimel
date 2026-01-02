@@ -17,50 +17,54 @@
 
 ## 💼 Professional Experience
 
-### 🎓 Guest Instructor | Kurigram Polytechnic Institute
-**Dec 2021 - Present** | Kurigram, Bangladesh
+<table width="100%">
+  <tr>
+    <!-- Guest Instructor -->
+    <td width="50%" valign="top">
+      <h3>🎓 Guest Instructor</h3>
+      <strong>Kurigram Polytechnic Institute</strong><br/>
+      <em>Dec 2021 – Present · Kurigram, Bangladesh</em>
+      <br/><br/>
+      <ul>
+        <li>📚 Taught advanced programming (Java, Kotlin, Dart, PHP) to <strong>500+ students</strong></li>
+        <li>🧮 Designed curriculum for <strong>Data Structures, Algorithms & Software Engineering</strong></li>
+        <li>🏗️ Introduced <strong>Clean Code</strong> and modern development methodologies</li>
+        <li>🎯 Mentored students on <strong>real-world projects</strong> and industry best practices</li>
+      </ul>
+    </td>
+    <!-- Flutter Developer -->
+    <td width="50%" valign="top">
+      <h3>📱 Flutter Developer (Freelance)</h3>
+      <em>Jan 2024 – Present · Remote</em>
+      <br/><br/>
+      <ul>
+        <li>🚀 Delivered <strong>5+ production-ready</strong> Flutter applications</li>
+        <li>📈 Reduced app load time by <strong>25%</strong> through performance optimization</li>
+        <li>🔄 Implemented <strong>CI/CD pipelines</strong> using GitHub Actions & Fastlane</li>
+        <li>🧪 Applied <strong>TDD</strong> with <strong>85%+ code coverage</strong></li>
+      </ul>
+    </td>
+  </tr>
 
-- 📚 Teaching advanced programming concepts (Java, Kotlin, Dart, PHP) to 500+ students
-- 🧮 Curriculum development for Data Structures, Algorithms, and Software Engineering
-- 🏗️ Introduced Clean Code practices and modern software development methodologies
-- 🎯 Mentored students on real-world project development and industry best practices
+  <tr>
+    <!-- Android Developer -->
+    <td width="50%" valign="top">
+      <h3>🤖 Android Developer</h3>
+      <strong>MCC Limited</strong><br/>
+      <em>Nov 2018 – Nov 2019 · Dhaka, Bangladesh</em>
+      <br/><br/>
+      <ul>
+        <li>📱 Developed <strong>5 Android apps</strong> with <strong>10,000+ downloads</strong></li>
+        <li>⭐ Maintained <strong>4.5+ star rating</strong> across published apps</li>
+        <li>👨‍🏫 Trained <strong>200+ developers</strong> in Android best practices</li>
+        <li>🏆 Led a <strong>5-member engineering team</strong> on a flagship product</li>
+      </ul>
+    </td>
+    <td width="50%"></td>
+  </tr>
+</table>
 
-**Key Achievements:**
-- Developed new curriculum integrating modern development practices
-- Improved student placement rate by introducing industry-relevant projects
-- Conducted workshops on mobile app development and cloud technologies
 
----
-
-### 📱 Flutter Developer (Freelance)
-**Jan 2024 - Present** | Remote
-
-- 🚀 Delivered 5+ production-ready applications for international clients
-- 📈 Implemented performance optimization strategies reducing load times by 25%
-- 🔄 Established CI/CD pipelines using GitHub Actions and Fastlane
-- 🧪 Applied TDD methodology with 85%+ code coverage
-
-**Key Deliverables:**
-- Cross-platform mobile applications (iOS & Android)
-- Real-time data synchronization systems
-- Payment gateway integrations (Stripe, PayPal)
-- Custom animations and interactive UI components
-
----
-
-### 🤖 Android Developer | MCC Limited
-**Nov 2018 - Nov 2019** | Dhaka, Bangladesh
-
-- 📱 Developed 5 Android applications reaching 10,000+ downloads
-- ⭐ Maintained 4.5+ star rating across all published applications
-- 👨‍🏫 Trained 200+ developers in Android development best practices
-- 🏆 Led development team of 5 engineers on flagship project
-
-**Key Achievements:**
-- Scaled user base from 0 to 10K+ in 6 months
-- Reduced app crash rate by 40% through comprehensive testing
-- Implemented analytics and A/B testing framework
-- Optimized app performance reducing battery consumption by 30%
 
 ---
 
