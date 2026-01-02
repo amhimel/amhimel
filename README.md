@@ -134,116 +134,33 @@
 
 ## 🚀 Featured Projects Portfolio
 
+<div align="center">
+<table>
+<tr>
+<td>
+
 ### 💰 Expense Tracker App
-🔗 [View Repository](https://github.com/amhimel/expense_tracker_app.git)
+[View Repository](https://github.com/amhimel/expense_tracker_app.git)
+<p><img src="https://github.com/amhimel/expense_tracker_app/blob/main/screenshots/demo.gif" width="300"  alt="Quiz Academy demo GIF"/></p>
 
-#### 🔧 Technical Highlights
-```dart
-• Pure Dart implementation with SQLite for local persistence
-• Riverpod for scalable state management
-• HashMap-based duplicate detection (LeetCode optimization)
-• Material 3 design system implementation
-• Comprehensive unit & widget testing (90%+ coverage)
-```
+</td>
+<td>
 
-**Stack:** `Flutter` `Dart` `Riverpod` `SQLite` `Material 3` `Clean Architecture`
+### 🎬 Movie Verse
+[View Repository](https://github.com/amhimel/Movie-Verse.git)
+<p><img src="https://github.com/amhimel/Movie-Verse/blob/main/screenshots/demo.gif" width="300" alt="Quiz Academy demo GIF"/></p>
 
----
+</td>
 
-### 🍕 Fridge Rader | **Smart Inventory Management System**
-[![Repository](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](project-link)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-4285F4?style=for-the-badge&logo=google-play)](demo-link)
+<td>
 
-**Real-time inventory tracking solution with cross-device synchronization**
+### News App — Flutter App
+[View Repository](https://github.com/amhimel/news-app.git)
+<p><img src="https://github.com/amhimel/news-app/blob/main/Assets/files/demo.gif" width="300" alt="Quiz Academy demo GIF"/></p>
 
-#### 🎯 Business Impact
-- **Real-time Sync** - Instant updates across all user devices
-- **Smart Alerts** - Automated expiry notifications reducing food waste
-- **Multi-user Support** - Family sharing with role-based access
+</td>
 
-#### 🔧 Technical Highlights
-```dart
-• Supabase real-time database integration
-• JWT-based authentication with refresh token rotation
-• Push notifications via Firebase Cloud Messaging
-• Responsive UI adapting to all screen sizes
-• Offline-first architecture with conflict resolution
-```
+</tr>
+</table>
+</div>
 
-**Stack:** `Flutter` `Riverpod` `Supabase` `PostgreSQL` `FCM` `Real-time Subscriptions`
-
----
-
-### 🤖 KothaAI | **Voice-Activated AI Assistant**
-[![Repository](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](project-link)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-4285F4?style=for-the-badge&logo=google-play)](demo-link)
-
-**Intelligent voice command interface with natural animations**
-
-#### 🎯 Business Impact
-- **Voice-First UX** - Hands-free interaction capability
-- **App Integration** - Deep linking with popular apps
-- **Weather & Info** - Real-time data fetching
-
-#### 🔧 Technical Highlights
-```dart
-• Flutter implicit & explicit animations
-• Speech recognition integration
-• Custom animation controllers
-• Riverpod dependency injection
-• Platform channel communication
-```
-
-**Stack:** `Flutter` `Riverpod` `Speech Recognition` `Animations` `Platform Channels`
-
----
-
-### 🎬 Movie Verse | **Streaming Platform Application**
-[![Repository](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](project-link)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-4285F4?style=for-the-badge&logo=google-play)](demo-link)
-
-**Feature-rich movie browsing platform with integrated payment processing**
-
-#### 🎯 Business Impact
-- **Stripe Integration** - Secure payment processing (PCI compliant)
-- **Content Discovery** - Advanced filtering & recommendation engine
-- **Video Streaming** - Embedded YouTube trailer playback
-
-#### 🔧 Technical Highlights
-```dart
-• RESTful API integration with retry mechanism
-• Flutter Stripe SDK for payment processing
-• Secure config management with flutter_dotenv
-• YouTube player integration
-• Provider state management with selectors
-• Lucide icons for modern UI
-```
-
-**Stack:** `Flutter` `Provider` `Stripe API` `YouTube API` `HTTP` `Secure Storage`
-
----
-
-### 🎓 Quiz Academy | **Interactive Learning Platform**
-[![Repository](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](project-link)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-4285F4?style=for-the-badge&logo=google-play)](demo-link)
-
-**Scalable quiz platform with real-time progress tracking**
-
-#### 🎯 Business Impact
-- **Real-time Leaderboards** - Competitive learning environment
-- **Progress Analytics** - Detailed performance metrics
-- **Multi-format Support** - Text, image, and video questions
-
-#### 🔧 Technical Highlights
-```dart
-• Clean Architecture with feature-based structure
-• Riverpod for predictable state management
-• Supabase Auth with social login providers
-• Real-time quiz synchronization
-• Comprehensive testing suite (Unit, Widget, Integration)
-• Performance profiling with Flutter DevTools
-```
-
-**Stack:** `Flutter` `Riverpod` `Supabase` `OAuth` `Clean Architecture` `TDD`
-
----
