@@ -168,3 +168,14 @@
 </table>
 </div>
 
+<br>
+<div align="center">
+<h1>📫 Let's Connect & Build Something Amazing</h1> 
+<h2>🌍 Available for:  Remote & Hybrid Opportunities</h2>
+
+### 💭 "The only way to do great work is to love what you do." — Steve Jobs
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+
+⭐ **If you find my work interesting, don't forget to star my repositories!**
+
