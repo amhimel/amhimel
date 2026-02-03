@@ -141,6 +141,13 @@
 <div align="center">
 <table>
 <tr>
+  <td>
+
+###  Flutter E-Commerce Application
+[View Repository](https://github.com/amhimel/shop-app.git)
+<p><img src="https://github.com/amhimel/shop-app/blob/bf7859681bfbe7f47e6852cf389e3a342e2691f4/assets/demo.gif" width="300"  alt="Flutter E-Commerce Application GIF"/></p>
+</td>
+
 <td>
 
 ### 💰 Expense Tracker App
