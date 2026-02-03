@@ -150,11 +150,28 @@
 
 <td>
 
+### Fridge Radar App
+[View Repository](https://github.com/amhimel/fridge_radar.git)
+<p><img src="https://github.com/amhimel/fridge_radar/blob/b2e8feb60f9fff93fd5b77b7612174bf664ca170/screenshots/demo.gif" width="300"  alt="Fridge Radar App demo GIF"/></p>
+
+</td>
+
+<td>
+
+### 📚 Quiz Academy
+[View Repository](https://github.com/amhimel/quiz-academy-app.git)
+<p><img src="https://github.com/amhimel/quiz-academy-app/blob/64bf2d62876fafc4a2bc29f5c30fd163f70dc561/assets/demo.gif" width="300"  alt="Quiz Academy demo GIF"/></p>
+
+</td>
+
+<td>
+
 ### 💰 Expense Tracker App
 [View Repository](https://github.com/amhimel/expense_tracker_app.git)
 <p><img src="https://github.com/amhimel/expense_tracker_app/blob/main/screenshots/demo.gif" width="300"  alt="Quiz Academy demo GIF"/></p>
 
 </td>
+
 <td>
 
 ### 🎬 Movie Verse
